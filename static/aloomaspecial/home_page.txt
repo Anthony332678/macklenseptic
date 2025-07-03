@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Q1: What are your service area limitations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A1: Crystal Can Porta Potty provides comprehensive portable sanitation services across all 50 states within the USA. Our extensive network ensures timely and efficient delivery and servicing, regardless of your project's location.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Q2: How do you ensure hygiene and cleanliness of your units?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A2: We adhere to a rigorous multi-point sanitation protocol for every unit. This includes thorough cleaning, disinfection with industrial-grade sanitizers, waste removal, and replenishment of supplies. Our units are regularly inspected to ensure they meet the highest standards of hygiene before and during deployment.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Q3: Can you accommodate large-scale corporate events or long-term construction projects?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A3: Absolutely. Our fleet capacity and logistical capabilities are designed to support projects of any scale, from multi-year construction developments requiring hundreds of units to large corporate events with complex sanitation needs. We offer scalable solutions and dedicated account management.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Q4: What is your response time for emergency service requests?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A4: Crystal Can Porta Potty prioritizes emergency response. We maintain a rapid deployment team and a dedicated emergency hotline to ensure that critical sanitation needs are addressed with the utmost urgency. Response times vary based on location and specific requirements, but we strive for the quickest possible deployment.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Q5: Do you offer ADA-compliant portable restrooms?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A5: Yes, we provide a full range of ADA-compliant portable restrooms designed to meet accessibility standards. These units offer wider entrances, spacious interiors, and appropriate grab bars to ensure comfortable and safe access for individuals with disabilities.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
